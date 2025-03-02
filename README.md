@@ -38,7 +38,7 @@ Each UNIT is capable of **autonomous motion, attachment, and energy sharing**, m
 
 | Movement Type                      | Hardware Used                                  | Purpose                                  |
 |-------------------------------------|-----------------------------------------------|------------------------------------------|
-| **SMA Micro-Legs**                 | Shape Memory Alloy (SMA) actuators            | **Crawling movement** for precision     |
+| **Piezoelectric Micro-Legs**        | Piezo actuators                               | **Crawling movement** for precision     |
 | **Electromagnetic Rolling**        | Reverse-polarity electromagnets               | Movement on metallic/magnetic surfaces  |
 | **Vibration Motor**                | Ultra-small vibration motor                   | Fine-tuned adjustments & minor shifts   |
 
@@ -101,7 +101,7 @@ Each UNIT is capable of **autonomous motion, attachment, and energy sharing**, m
 | **Piezoelectric Harvester**         | 1                | Generates power from movement         |
 | **Thin-Film Supercapacitor**        | 1                | Stores energy for bursts              |
 | **Physical Conductive Pads**        | 4                | Transfers power between UNITs         |
-| **SMA Micro-Legs**                  | 2–4              | For precision crawling movement       |
+| **Piezoelectric Micro-Legs**        | 2–4              | For precision crawling movement       |
 | **Electromagnets (Polarity-Switching)** | 4                | For attachment and rolling movement  |
 | **Vibration Motor**                 | 1                | For minor movement adjustments        |
 | **9-Axis IMU**                      | 1                | Tracks motion, position, and angle    |
@@ -119,5 +119,4 @@ Each UNIT is capable of **autonomous motion, attachment, and energy sharing**, m
 ✅ **Autonomous Swarm Intelligence + User Command Support**  
 ✅ **Sustainable Power via Solar, RF, Piezoelectric, and Energy Sharing**  
 
----
-
+---  
